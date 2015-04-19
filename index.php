@@ -14,5 +14,6 @@
 			u should give me an A!
 		</p>
 	</div>
-<script type="text/main.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="main.js"></script>
 </body>
